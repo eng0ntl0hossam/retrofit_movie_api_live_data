@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1053422535816",
+    "firebase_url": "https://asdf-9bb05.firebaseio.com",
+    "project_id": "asdf-9bb05",
+    "storage_bucket": "asdf-9bb05.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1053422535816:android:0f43e73e1ea84857",
+        "android_client_info": {
+          "package_name": "com.example.retrofit_movie_api_live_data"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1053422535816-5ja8f4fc4dlkn13l7qkqgii4r89rbg8a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.retrofit_movie_api_live_data",
+            "certificate_hash": "4c28a99e5c52086b9d883904109fea22c635a245"
+          }
+        },
+        {
+          "client_id": "1053422535816-bagk3hh6ia96ukkmk6ippo2a5hcn8ps4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBO4h6ZNJ23rkY9xxkC1xRCCs0W7frLhlw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1053422535816-bagk3hh6ia96ukkmk6ippo2a5hcn8ps4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
